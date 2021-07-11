@@ -2,7 +2,7 @@
 ##  🎹 A telegram bot that can download songs 🎸
 ### Reach me on Telegram [😇 Fast Song Downloader 🇱🇰](http://t.me/FastSongDowloaderSri_bot)
 <p align="center">
-  <img src="https://telegra.ph/file/3d8882ce42f3a010986e6.jpg">
+  <img src="https://telegra.ph/SSong-Downloader-Bot-07-11
 </p>
 
 
